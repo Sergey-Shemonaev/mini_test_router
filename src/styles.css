@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul {
+  display: flex;
+  justify-content: center;
+}
+li {
+  margin: 0 1em;
+  list-style: none;
+}
+
+.sight img {
+  width: 40em;
+}
+link {
+  text-decoration: none;
+}
+label {
+  margin: 5px auto;
+}
+input {
+  display: block;
+  margin: 10px auto;
+  width: 100%;
+}
+
+form {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 5em;
+}
